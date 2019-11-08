@@ -1,13 +1,17 @@
 <!--
  * @Author: your name
  * @Date: 2019-11-08 14:34:50
- * @LastEditTime: 2019-11-08 14:49:05
+ * @LastEditTime: 2019-11-08 15:59:15
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \gis_zh_cn\README.md
  -->
 # gis_zh_cn
-gis中文教程
+
+ [![star](https://gitee.com/zhuandshao/gis_zh_cn/badge/star.svg?theme=dark)](https://gitee.com/zhuandshao/gis_zh_cn/stargazers)
+ [![fork](https://gitee.com/zhuandshao/gis_zh_cn/badge/fork.svg?theme=dark)](https://gitee.com/zhuandshao/gis_zh_cn/members)
+
+gis中文教程   
 
 [英文原文](https://developers.arcgis.com/javascript/latest/guide/quick-start/)
 
@@ -23,15 +27,18 @@ gis中文教程
 ## 2.设置本地开发环境
 尽管您可以使用JS Bin，CodePen和我们自己的沙箱之类的网站来试用ArcGIS API for JavaScript，但我们强烈建议您使用代码编辑器和Web服务器设置本地开发环境。我们推荐下面的代码编辑器，虽然任何编辑器将工作：
 
-VS代码
-原子
-崇高文字
++ VS Code
++ Atom
++ Sublime Text
+
+
 Mozilla开发人员网络在设置本地开发服务器方面提供了出色的指南。
 
 ## 3. Hello World
 
->![](figure/1.1.png)
-无法添加画布，详情请查看[链接](https://developers.arcgis.com/javascript/latest/guide/quick-start/)
+
+>![](figure/1.1.gif)\
+详情请查看[链接](https://developers.arcgis.com/javascript/latest/guide/quick-start/)
 
 ```html
 <html>
@@ -85,3 +92,5 @@ Mozilla开发人员网络在设置本地开发服务器方面提供了出色的�
 
 
 [下一篇]()
+
+ [![三千铭/gis_zh_cn](https://gitee.com/zhuandshao/gis_zh_cn/widgets/widget_card.svg?colors=eae9d7,2e2f29,272822,484a45,eae9d7,747571)](https://gitee.com/zhuandshao/gis_zh_cn)
